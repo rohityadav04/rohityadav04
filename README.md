@@ -1,4 +1,3 @@
-<h1 align="left">Hi 👋, I'm Rohit Yadav</h1>
 <p align="left">👋 Hey, I'm Rohit Yadav, a seasoned MERN Stack Developer and an avid explorer of blockchain technology. I'm deeply passionate about creating outstanding user interfaces and driven by a relentless pursuit of learning. My mission? To innovate swiftly and deliver top-notch solutions that push boundaries. Let's embark on a journey of collaboration and innovation together!</p>
 
 - 🌱 I’m currently learning **Tact**
