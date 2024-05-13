@@ -1,6 +1,12 @@
 <p align="left">👋 Hey, I'm Rohit Yadav, a seasoned MERN Stack Developer and an avid explorer of blockchain technology. I'm deeply passionate about creating outstanding user interfaces and driven by a relentless pursuit of learning. My mission? To innovate swiftly and deliver top-notch solutions that push boundaries. Let's embark on a journey of collaboration and innovation together!</p>
 
+
+- 💡 With expertise in crafting robust and scalable web applications, I thrive on turning ideas into reality by leveraging my skills in HTML, CSS, JavaScript, React.js, Redux, Node.js, MongoDB, Express.js, Mongoose, Solidity, and  Tact.
+
+- 🛠️ With a keen eye for detail and a commitment to clean, maintainable code, I specialize in building responsive user interfaces and scalable backend solutions. Whether it's developing interactive single-page applications with React.js or architecting efficient APIs with Node.js and Express.js, I'm dedicated to delivering high-quality software that exceeds expectations.
+
 - 🌱 I’m currently learning **Tact**
+
 
 - 💬 Ask me about **Web3,Nextjs,tact,nodejs,wordpress**
 
